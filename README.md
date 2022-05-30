@@ -18,4 +18,4 @@ The technologies used in this demo are:
 ## Web application screenshots 
 
 ## Home Page
-![Screenshot of home page](C:\Users\admin\Desktop\Without User\Home.png)
+![Screenshot of rating a movie](./docs/screenshot_ratings.png)
