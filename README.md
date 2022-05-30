@@ -18,4 +18,6 @@ The technologies used in this demo are:
 ## Web application screenshots 
 
 ## Home Page
-![Screenshot of rating a movie](./docs/screenshot_ratings.png)
+![home](https://user-images.githubusercontent.com/75964487/171058685-8261135f-616f-4a6c-ac33-66d3c5f71ecd.png)
+## Hospital Login Page
+![HosLogin](https://user-images.githubusercontent.com/75964487/171058757-58d0e1f7-8054-49a3-a906-7cd5ebd0f49d.png)
