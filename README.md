@@ -21,3 +21,8 @@ The technologies used in this demo are:
 ![home](https://user-images.githubusercontent.com/75964487/171058685-8261135f-616f-4a6c-ac33-66d3c5f71ecd.png)
 ## Hospital Login Page
 ![HosLogin](https://user-images.githubusercontent.com/75964487/171058757-58d0e1f7-8054-49a3-a906-7cd5ebd0f49d.png)
+## Admin Login Page
+![AdminLogin](https://user-images.githubusercontent.com/75964487/171058858-53246204-54e6-4fe0-b4ea-fafa018583f1.png)
+## Bed Booking
+![Booking](https://user-images.githubusercontent.com/75964487/171058986-678e2c97-069e-4287-bd98-f315829b098d.png)
+## Triggers
