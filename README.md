@@ -5,15 +5,18 @@ This is a web based application where a user can book beds in nearby hospital us
 
 ## Technologies
  
-The overall architecture looks like this:
+Technologies used:
 
 <ul>
+ <h3> Language used </h3>
   <li> Python </li>
+ <h3> Web Framework </h3>
   <li> Flask </li>
+ <h3> Frontend </h3>
   <li> Bootstrap </li>
+ <h3> Database </h3>
   <li> MySQL </li>
 </ul>
-The technologies used in this demo are:
 
 ## Web application screenshots 
 
