@@ -17,6 +17,16 @@ Technologies used:
  <h3> Database </h3>
   <li> MySQL </li>
 </ul>
+## Requirements
+<ul>
+ <li>click==8.1.3</li>
+<li>colorama==0.4.4</li>
+<li>Flask==2.1.2</li>
+<li>itsdangerous==2.1.2</li>
+<li>Jinja2==3.1.2</li>
+<li>MarkupSafe==2.1.1</li>
+<li>Werkzeug==2.1.2</li>
+</ul>
 
 ## Web application screenshots 
 
