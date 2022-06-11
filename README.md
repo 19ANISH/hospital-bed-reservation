@@ -28,6 +28,11 @@ Technologies used:
 <li>Werkzeug==2.1.2</li>
 </ul>
 
+## To install all dependencies
+```bash
+pip install -r ./requirements.txt
+```
+
 ## Web application screenshots 
 
 ## Home Page
