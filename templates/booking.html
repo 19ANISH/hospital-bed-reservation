@@ -43,7 +43,7 @@
         <i class="bi bi-clock"></i> 24*7 Available
       </div>
       <div class="d-flex align-items-center">
-        <i class="bi bi-phone"></i> Call us at +919876540785
+        <i class="bi bi-phone"></i> Contact :- <a href="mailto: projectwork1544@gmail.com" style="color: white;"> &nbsp;Admin </a>
       </div>
     </div>
   </div>
@@ -52,7 +52,7 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-      <a href="index.html" class="logo me-auto"><img src="static/assets/img/logo.png" alt=""></a>
+      <a href="/" class="logo me-auto"><img src="" alt=""></a>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <h1 class="logo me-auto"><a href="index.html">Medicio</a></h1> -->
 
@@ -67,7 +67,7 @@
       </nav><!-- .navbar -->
 
 
-      <a href="#appointment" class="appointment-btn scrollto"><span class="d-none d-md-inline">Bed <br> Availability </span></a>
+      <a href="/trigers" class="appointment-btn scrollto"><span class="d-none d-md-inline">Bed <br> Availability </span></a>
 
     </div>
   </header><!-- End Header -->
@@ -87,6 +87,7 @@
 
         <div class="card">
             {% include "message.html" %}
+            <br>
             <h4 class="text-center text-info">Enter Data Below</h4>
             <br>
             <div class="card-body bg-light">
@@ -160,6 +161,8 @@
 
       <th scope="col">Hospital Code</th>
       <th scope="col">Hospital Name</th>
+      <th scope="col">Hospital<br>Address</th>
+      <th scope="col">Hospital Phone</th>
       <th scope="col">Normal Bed</th>
       <th scope="col">I.C.U Bed</th>
       <th scope="col">Ventilator Bed</th>
@@ -170,6 +173,8 @@
    <tr>
       <td>{{post.HosCode}}</td>
       <td>{{post.HosName}}</td>
+      <td>{{post.HosAdd}}</td>
+      <td>{{post.HosPhone}}</td>
       <td>{{post.normalbed}}</td>
       <td>{{post.icubed}}</td>
       <td>{{post.ventbed}}</td>
